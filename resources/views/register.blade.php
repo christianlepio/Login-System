@@ -2,4 +2,7 @@
 
 @extends('layouts.layout')
 @section('content')
+    <div class="container">
+        hello
+    </div>
 @endsection
