@@ -1,4 +1,7 @@
+<!-- This is to import the layout.blade.php from layouts folder of  view-->
 @extends('layouts.layout')
+
+<!-- This is  for body section or content-->
 @section('content')
 <section class="hero is-small is-info">
     <div class="hero-body">
