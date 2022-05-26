@@ -1,4 +1,4 @@
-<!-- This is to import the layout.blade.php from layouts folder of  view-->
+<!-- This is to import/include the layout.blade.php from layouts folder of  view-->
 @extends('layouts.layout')
 
 <!-- This is  for body section or content-->
