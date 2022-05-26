@@ -20,7 +20,8 @@
         </style>
     </head>
     <body>
-    @yield('content')
+        <!-- This is to import the body content/section-->
+        @yield('content')
     <footer class="footer">
             <div class="content has-text-centered">
             <p id="copyright">Copyright &copy; 2022 | E - Systems</p>
