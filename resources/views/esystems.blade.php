@@ -26,7 +26,7 @@
                             </div>
                         </div>
                         <center>
-                            <button class="button is-success is-rounded mb-5">SignIn</button>
+                            <button class="button is-success is-rounded mb-5">Sign In</button>
                             <button class="button is-primary is-rounded mb-5">Register</button>
                         </center>
                     </form>
