@@ -6,7 +6,10 @@
                 <form action="" method="post">
                     <div class="row justify-content-center">
                         <div class="col-md-3">
-                            
+                            <div class="form-floating mb-3">
+                                <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com">
+                                <label for="floatingInput">Last name: </label>
+                            </div>
                         </div>
                     </div>
                 </form>
