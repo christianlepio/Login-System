@@ -39,6 +39,7 @@
                                 <label for="floatingInput">Email Address </label>
                             </div>
                         </div>
+                        <div class="col-md-4"></div>
                     </div>
                 </form>
             </div>
