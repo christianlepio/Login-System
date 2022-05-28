@@ -42,7 +42,7 @@
                         <div class="row justify-content-center">
                             <div class="col-md-4">
                                 <div class="form-floating mb-3">
-                                    <input type="password" class="form-control input is-info" id="floatingInput" placeholder="name@example.com">
+                                    <input type="password" class="form-control" id="floatingInput" placeholder="name@example.com">
                                     <label for="floatingInput">Password </label>
                                 </div>
                             </div>
