@@ -55,7 +55,7 @@
                         </div>
                         <div class="row justify-content-center my-2">
                             <div class="col-4 text-end">
-                                <button class="button is-danger is-rounded">Back</button>
+                                <button class="button is-danger is-rounded is-outlined">Back</button>
                             </div>
                             <div class="col-4">
                                 <button class="button is-info is-rounded">Submit</button>
