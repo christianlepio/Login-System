@@ -9,7 +9,7 @@
                     </figure>
                      &nbsp;|&nbsp;<span class="fs-5 lh-lg">REGISTRATION MODULE</span>
                 </div>
-                <div class="card-body">
+                <div class="card-body mt-3">
                     <form action="" method="post">
                         <div class="row justify-content-center">
                             <div class="col-md-4">
