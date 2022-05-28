@@ -7,7 +7,7 @@
                     <figure class="mt-1 image is-32x32">
                         <img src="/img/logoko.JPG">
                     </figure>
-                     &nbsp;|&nbsp; <span>REGISTRATION MODULE</span>
+                     &nbsp;|&nbsp;<span>REGISTRATION MODULE</span>
                 </div>
                 <div class="card-body">
                     <form action="" method="post">
