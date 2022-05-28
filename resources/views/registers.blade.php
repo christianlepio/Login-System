@@ -57,7 +57,7 @@
                             <div class="col-4 text-end">
                                 <button class="button is-danger is-rounded">Back</button>
                             </div>
-                            <div class="col-4 border">
+                            <div class="col-4">
                                 <button class="button is-info is-rounded">Submit</button>
                             </div>
                         </div>
