@@ -21,6 +21,6 @@ Route::get('/', function () {
     return view('esystems');
 });
 
-Route::get('/registers', function () {
+Route::get('/register', function () {
     return view('registers');
 });
