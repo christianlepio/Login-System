@@ -34,7 +34,7 @@
                             </div>
                             <div class="col-md-4">
                                 <div class="form-floating mb-3">
-                                    <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com">
+                                    <input type="text" class="form-control input is-primary" id="floatingInput" placeholder="name@example.com">
                                     <label for="floatingInput">Username </label>
                                 </div>
                             </div>
