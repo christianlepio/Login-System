@@ -57,6 +57,9 @@
                             <div class="col-4">
                                 <button class="button is-info is-rounded">Submit</button>
                             </div>
+                            <div class="col-4">
+                                
+                            </div>
                         </div>
                     </form>
                 </div>
