@@ -19,7 +19,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row justify-content-center">
+                    <div class="row justify-content-center mx-1">
                         <div class="col-md-4">
                             <div class="form-floating mb-3">
                                 <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
