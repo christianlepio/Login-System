@@ -3,7 +3,7 @@
 
 <!-- This is  for body section or content-->
 @section('content')
-<section class="hero is-small">
+<section class="hero is-small loginpage">
     <div class="hero-body">
         <div class="container">
             <div class="columns is-justify-content-center p-2">
