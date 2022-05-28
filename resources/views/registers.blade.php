@@ -54,7 +54,7 @@
                             </div>
                         </div>
                         <div class="row justify-content-center">
-                            <div class="col-4 border">
+                            <div class="col-4 border text-end">
                                 <button class="button is-danger is-rounded">Back</button>
                             </div>
                             <div class="col-4 border">
