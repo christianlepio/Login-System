@@ -53,7 +53,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row justify-content-center">
+                        <div class="row justify-content-center mt-2">
                             <div class="col-4 text-end">
                                 <button class="button is-danger is-rounded">Back</button>
                             </div>
