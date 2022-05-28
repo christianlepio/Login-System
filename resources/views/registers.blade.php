@@ -5,7 +5,7 @@
             <div class="card mt-5 mx-1">
                 <div class="card-header fs-4 fw-bold">Registration Module</div>
                 <form action="" method="post">
-                    <div class="row justify-content-center mx-3">
+                    <div class="row justify-content-center mx-2">
                         <div class="col-md-4">
                             <div class="form-floating mb-3">
                                 <input type="text" class="form-control" id="floatingInput" placeholder="name@example.com">
