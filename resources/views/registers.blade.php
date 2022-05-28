@@ -3,7 +3,12 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <div class="container">
             <div class="card mt-5 mx-1">
-                <div class="card-header fs-4 fw-bold">REGISTRATION MODULE</div>
+                <div class="card-header fs-4 fw-bold">
+                    <figure class="image is-96x96">
+                        <img src="/img/logoko.JPG">
+                    </figure>
+                    REGISTRATION MODULE
+                </div>
                 <div class="card-body">
                     <form action="" method="post">
                         <div class="row justify-content-center">
