@@ -15,7 +15,7 @@
     <body>
         <!-- This is to import the body content/section-->
         @yield('content')
-        <footer class="footer">
+        <footer class="footers">
             <div class="content has-text-centered">
             <p id="copyright">Copyright &copy; 2022 | E - Systems</p>
             </div>
