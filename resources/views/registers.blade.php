@@ -7,7 +7,7 @@
                     <figure class="image is-32x32">
                         <img src="/img/logoko.JPG">
                     </figure>
-                    REGISTRATION MODULE
+                     | REGISTRATION MODULE
                 </div>
                 <div class="card-body">
                     <form action="" method="post">
