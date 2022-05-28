@@ -55,10 +55,10 @@
                         </div>
                         <div class="row justify-content-center">
                             <div class="col-4">
-                                <button class="button is-info is-rounded">Submit</button>
+
                             </div>
                             <div class="col-4">
-                                
+                            <button class="button is-info is-rounded">Submit</button>
                             </div>
                         </div>
                     </form>
