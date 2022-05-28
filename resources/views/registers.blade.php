@@ -4,7 +4,7 @@
         <div class="container">
             <div class="card mt-5 mx-1">
                 <div class="card-header fs-4 fw-bold">
-                    <figure class="image is-24x24">
+                    <figure class="mt-2 image is-24x24">
                         <img src="/img/logoko.JPG">
                     </figure>
                      &nbsp;| REGISTRATION MODULE
