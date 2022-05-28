@@ -54,7 +54,9 @@
                             </div>
                         </div>
                         <div class="row justify-content-center">
-                            <div class="col-4"></div>
+                            <div class="col-4">
+                                <button class="button is-link is-outlined">Outlined</button>
+                            </div>
                         </div>
                     </form>
                 </div>
